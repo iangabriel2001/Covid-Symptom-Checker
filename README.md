@@ -25,5 +25,24 @@ symptom-checker/
   - Based on the input, the program recommends testing, seeing a doctor, or confirms the user is COVID-free.
 
 ---
+💡 Sample Output
 
+Hello! Welcome to the COVID Symptom Checker 🩺
+Please fill out the information below to create an account.
+
+First Name: John
+Last Name: Doe
+Age: 30
+
+Please enter a username: JohnD2024
+Welcome, JohnD2024! Your username is valid.
+
+Please enter a password: StrongPass!2024
+Your password is valid.
+
+Please select your symptoms:
+1. Muscle aches, headaches, loss of appetite...
+...
+Enter your choice (1–4): 2
+Recommendation: Please go home and take a test.
 
